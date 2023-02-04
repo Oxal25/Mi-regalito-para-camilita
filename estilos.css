@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(238, 231, 231);
+    background-position: fixed
+    
+}
+h1, h2, h3{
+    text-align: center;
+}
+p{
+    color: black;
+    font-size: 20px;
+    
+}
